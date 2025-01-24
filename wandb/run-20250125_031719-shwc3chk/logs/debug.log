@@ -1,0 +1,12 @@
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_setup.py:_flush():68] Current SDK version is 0.19.4
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_setup.py:_flush():68] Configure stats pid to 18660
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Documents\GitHub\mlops\wandb\settings
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-25 03:17:19,511 INFO    MainThread:18660 [wandb_init.py:setup_run_log_directory():624] Logging user logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_031719-shwc3chk\logs\debug.log
+2025-01-25 03:17:19,512 INFO    MainThread:18660 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_031719-shwc3chk\logs\debug-internal.log
+2025-01-25 03:17:19,512 INFO    MainThread:18660 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E88EDF4880>
+2025-01-25 03:17:19,512 INFO    MainThread:18660 [wandb_init.py:init():743] calling init triggers
+2025-01-25 03:17:19,512 INFO    MainThread:18660 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-25 03:17:19,513 INFO    MainThread:18660 [wandb_init.py:init():776] starting backend
