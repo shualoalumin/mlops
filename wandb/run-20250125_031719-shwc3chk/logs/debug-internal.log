@@ -4,3 +4,5 @@
 {"time":"2025-01-25T03:17:20.8884797+09:00","level":"INFO","msg":"stream: started","id":"shwc3chk"}
 {"time":"2025-01-25T03:17:20.8889939+09:00","level":"INFO","msg":"sender: started","stream_id":"shwc3chk"}
 {"time":"2025-01-25T03:17:20.8889939+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"shwc3chk"}
+{"time":"2025-01-25T03:17:21.3298599+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-25T03:17:21.6623722+09:00","level":"INFO","msg":"Pausing system monitor"}

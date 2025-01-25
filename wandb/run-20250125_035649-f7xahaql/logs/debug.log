@@ -1,0 +1,59 @@
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_setup.py:_flush():68] Current SDK version is 0.19.4
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_setup.py:_flush():68] Configure stats pid to 13412
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Documents\GitHub\mlops\wandb\settings
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-25 03:56:49,588 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():624] Logging user logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035649-f7xahaql\logs\debug.log
+2025-01-25 03:56:49,590 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035649-f7xahaql\logs\debug-internal.log
+2025-01-25 03:56:49,590 INFO    MainThread:13412 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021478F508B0>
+2025-01-25 03:56:49,590 INFO    MainThread:13412 [wandb_init.py:init():743] calling init triggers
+2025-01-25 03:56:49,590 INFO    MainThread:13412 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-25 03:56:49,590 INFO    MainThread:13412 [wandb_init.py:init():776] starting backend
+2025-01-25 03:56:49,830 INFO    MainThread:13412 [wandb_init.py:init():780] sending inform_init request
+2025-01-25 03:56:49,854 INFO    MainThread:13412 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-01-25 03:56:49,855 INFO    MainThread:13412 [wandb_init.py:init():795] backend started and connected
+2025-01-25 03:56:49,860 INFO    MainThread:13412 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-25 03:56:49,861 INFO    MainThread:13412 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: 'cp949' codec can't decode byte 0xeb in position 90: illegal multibyte sequence
+2025-01-25 03:56:49,861 INFO    MainThread:13412 [wandb_init.py:init():888] updated telemetry
+2025-01-25 03:56:49,971 INFO    MainThread:13412 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-25 03:56:50,395 INFO    MainThread:13412 [wandb_init.py:init():967] starting run threads in backend
+2025-01-25 03:56:50,738 INFO    MainThread:13412 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-25 03:56:50,738 INFO    MainThread:13412 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-25 03:56:50,738 INFO    MainThread:13412 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-25 03:56:50,738 INFO    MainThread:13412 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-25 03:56:50,742 INFO    MainThread:13412 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-25 03:56:50,744 INFO    MainThread:13412 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-25 03:56:50,744 INFO    MainThread:13412 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-25 03:57:09,223 INFO    MainThread:13412 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-25 03:57:09,235 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():624] Logging user logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035709-vzfje2n7\logs\debug.log
+2025-01-25 03:57:09,236 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035709-vzfje2n7\logs\debug-internal.log
+2025-01-25 03:57:09,236 INFO    MainThread:13412 [wandb_init.py:init():743] calling init triggers
+2025-01-25 03:57:09,236 INFO    MainThread:13412 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-25 03:57:09,236 INFO    MainThread:13412 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-25 03:57:09,238 INFO    MainThread:13412 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-25 03:57:09,238 INFO    MainThread:13412 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-25 03:57:15,095 INFO    MainThread:13412 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-25 03:57:15,894 INFO    MainThread:13412 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-25 03:57:15,894 INFO    MainThread:13412 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-25 03:57:22,663 INFO    MainThread:13412 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-25 03:57:22,665 INFO    MainThread:13412 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-25 03:57:22,665 INFO    MainThread:13412 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-25 03:57:42,334 INFO    MainThread:13412 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-25 03:57:42,443 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():624] Logging user logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035742-pccd4qb0\logs\debug.log
+2025-01-25 03:57:42,443 INFO    MainThread:13412 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to c:\Users\User\Documents\GitHub\mlops\wandb\run-20250125_035742-pccd4qb0\logs\debug-internal.log
+2025-01-25 03:57:42,443 INFO    MainThread:13412 [wandb_init.py:init():743] calling init triggers
+2025-01-25 03:57:42,443 INFO    MainThread:13412 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-25 03:57:42,443 INFO    MainThread:13412 [wandb_init.py:init():765] found existing run on stack: f7xahaql
+2025-01-25 03:57:42,444 INFO    MainThread:13412 [wandb_run.py:_finish():2134] finishing run realx1212-aijosh/ViT_vs_CNN_flowers/f7xahaql
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [wandb_run.py:_restore():2356] restore
+2025-01-25 03:57:42,445 INFO    MainThread:13412 [wandb_run.py:_restore():2362] restore done
+2025-01-25 03:57:44,423 INFO    MainThread:13412 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-25 03:57:44,423 INFO    MainThread:13412 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-25 03:57:44,423 INFO    MainThread:13412 [wandb_run.py:_footer_sync_info():3937] logging synced files
