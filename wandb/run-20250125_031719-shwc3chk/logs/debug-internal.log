@@ -1,8 +1,0 @@
-{"time":"2025-01-25T03:17:20.569631+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\User\\Documents\\GitHub\\mlops\\wandb\\run-20250125_031719-shwc3chk\\logs\\debug-core.log"}
-{"time":"2025-01-25T03:17:20.8879672+09:00","level":"INFO","msg":"created new stream","id":"shwc3chk"}
-{"time":"2025-01-25T03:17:20.8879672+09:00","level":"INFO","msg":"handler: started","stream_id":"shwc3chk"}
-{"time":"2025-01-25T03:17:20.8884797+09:00","level":"INFO","msg":"stream: started","id":"shwc3chk"}
-{"time":"2025-01-25T03:17:20.8889939+09:00","level":"INFO","msg":"sender: started","stream_id":"shwc3chk"}
-{"time":"2025-01-25T03:17:20.8889939+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"shwc3chk"}
-{"time":"2025-01-25T03:17:21.3298599+09:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-01-25T03:17:21.6623722+09:00","level":"INFO","msg":"Pausing system monitor"}

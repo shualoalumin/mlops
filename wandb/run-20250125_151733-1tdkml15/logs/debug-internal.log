@@ -1,0 +1,28 @@
+{"time":"2025-01-25T15:17:34.2576492+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\User\\Documents\\GitHub\\mlops\\wandb\\run-20250125_151733-1tdkml15\\logs\\debug-core.log"}
+{"time":"2025-01-25T15:17:34.3847764+09:00","level":"INFO","msg":"created new stream","id":"1tdkml15"}
+{"time":"2025-01-25T15:17:34.3847764+09:00","level":"INFO","msg":"stream: started","id":"1tdkml15"}
+{"time":"2025-01-25T15:17:34.3847764+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:17:34.3847764+09:00","level":"INFO","msg":"handler: started","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:17:34.3847764+09:00","level":"INFO","msg":"sender: started","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:17:34.7990646+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-25T15:17:35.1270561+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:18:15.9193567+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:18:16.4735937+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:20:03.0516663+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:20:03.1139527+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:20:19.1610429+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:20:19.2125585+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:22:02.074818+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:22:02.3826614+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:22:08.0847277+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:22:08.0862446+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-25T15:22:10.6999669+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-25T15:22:10.7667079+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-25T15:22:10.7688115+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-25T15:22:11.741783+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-25T15:22:11.7705053+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 1-4","runtime_seconds":0.0287223}],"total_operations":1}}
+{"time":"2025-01-25T15:22:13.0104478+09:00","level":"INFO","msg":"stream: closing","id":"1tdkml15"}
+{"time":"2025-01-25T15:22:13.0104478+09:00","level":"INFO","msg":"handler: closed","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:22:13.0104478+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:22:13.0104478+09:00","level":"INFO","msg":"sender: closed","stream_id":"1tdkml15"}
+{"time":"2025-01-25T15:22:13.0104478+09:00","level":"INFO","msg":"stream: closed","id":"1tdkml15"}

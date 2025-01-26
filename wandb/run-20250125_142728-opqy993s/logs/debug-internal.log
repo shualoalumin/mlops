@@ -1,7 +1,0 @@
-{"time":"2025-01-25T14:27:28.8485484+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\User\\Documents\\GitHub\\mlops\\wandb\\run-20250125_142728-opqy993s\\logs\\debug-core.log"}
-{"time":"2025-01-25T14:27:28.9730446+09:00","level":"INFO","msg":"created new stream","id":"opqy993s"}
-{"time":"2025-01-25T14:27:28.9730446+09:00","level":"INFO","msg":"stream: started","id":"opqy993s"}
-{"time":"2025-01-25T14:27:28.9730446+09:00","level":"INFO","msg":"sender: started","stream_id":"opqy993s"}
-{"time":"2025-01-25T14:27:28.9730446+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"opqy993s"}
-{"time":"2025-01-25T14:27:28.9730446+09:00","level":"INFO","msg":"handler: started","stream_id":"opqy993s"}
-{"time":"2025-01-25T14:27:29.3038335+09:00","level":"INFO","msg":"Starting system monitor"}
