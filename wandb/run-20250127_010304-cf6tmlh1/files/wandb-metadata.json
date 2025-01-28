@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.9",
+  "startedAt": "2025-01-26T16:03:04.694247Z",
+  "program": "c:\\Users\\User\\Documents\\GitHub\\mlops\\vit_test.ipynb",
+  "codePath": "vit_test.ipynb",
+  "git": {
+    "remote": "https://github.com/shualoalumin/mlops.git",
+    "commit": "c4cce95ec13a626af5462cfc1d4b72f116eac4fb"
+  },
+  "email": "realx1212@gmail.com",
+  "root": "c:\\Users\\User\\Documents\\GitHub\\mlops",
+  "host": "수아Home",
+  "executable": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "codePathLocal": "vit_test.ipynb",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "499270602752",
+      "used": "421093404672"
+    }
+  },
+  "memory": {
+    "total": "16508354560"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}
