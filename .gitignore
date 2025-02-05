@@ -1,7 +1,14 @@
 *.h5
 flower_classifier_v1.h5
+deeplabv3_xception_tf_dim_ordering_tf_kernels.h5
 Reviews.csv
 myenv/
 pixellib_env/
 venv/
 /pixellib_env
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
