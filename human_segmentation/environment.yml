@@ -160,7 +160,7 @@ dependencies:
       - matplotlib==3.9.4
       - mypy-extensions==1.0.0
       - networkx==3.2.1
-      - numpy==1.19.5
+      - numpy==1.23.5
       - omegaconf==2.3.0
       - opencv-python==4.10.0.84
       - pathspec==0.12.1
