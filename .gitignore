@@ -1,3 +1,7 @@
 *.h5
 flower_classifier_v1.h5
 Reviews.csv
+myenv/
+pixellib_env/
+venv/
+/pixellib_env
