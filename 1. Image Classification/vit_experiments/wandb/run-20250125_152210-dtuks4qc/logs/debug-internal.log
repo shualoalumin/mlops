@@ -1,0 +1,33 @@
+{"time":"2025-01-25T15:22:13.0150035+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\User\\Documents\\GitHub\\mlops\\wandb\\run-20250125_152210-dtuks4qc\\logs\\debug-core.log"}
+{"time":"2025-01-25T15:22:13.1425255+09:00","level":"INFO","msg":"created new stream","id":"dtuks4qc"}
+{"time":"2025-01-25T15:22:13.1425255+09:00","level":"INFO","msg":"stream: started","id":"dtuks4qc"}
+{"time":"2025-01-25T15:22:13.1425255+09:00","level":"INFO","msg":"handler: started","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:22:13.1425255+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:22:13.1425255+09:00","level":"INFO","msg":"sender: started","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:22:13.4577777+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-25T15:22:23.4616782+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:22:33.4578246+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:22:43.4578308+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:22:53.4584954+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:03.4579757+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:13.4581866+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:23.4578669+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:33.4583017+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:43.4590811+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:23:53.4581599+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:03.4579693+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:13.4582114+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:23.4581612+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:33.458095+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:43.4582035+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:24:53.458391+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:25:03.4581026+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-01-25T15:25:12.5671419+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-25T15:25:12.5679464+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-25T15:25:13.5714184+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-25T15:25:13.5721532+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0007348}],"total_operations":1}}
+{"time":"2025-01-25T15:25:14.8583275+09:00","level":"INFO","msg":"stream: closing","id":"dtuks4qc"}
+{"time":"2025-01-25T15:25:14.8583275+09:00","level":"INFO","msg":"handler: closed","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:25:14.8583275+09:00","level":"INFO","msg":"sender: closed","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:25:14.8583275+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dtuks4qc"}
+{"time":"2025-01-25T15:25:14.8588331+09:00","level":"INFO","msg":"stream: closed","id":"dtuks4qc"}
