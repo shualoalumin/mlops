@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\User\AppData\Local\Temp\ipykernel_13412\3459677723.py", line 12, in train_sweep
-    model = create_simple_cnn(
-TypeError: create_simple_cnn() got an unexpected keyword argument 'num_dense_layers'

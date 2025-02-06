@@ -1,0 +1,30 @@
+Found 427 files belonging to 6 classes.
+Found 51 files belonging to 6 classes.
+Found 56 files belonging to 6 classes.
+Classes: ['barrel_jellyfish', 'blue_jellyfish', 'compass_jellyfish', 'lions_mane_jellyfish', 'mauve_stinger_jellyfish', 'moon_jellyfish']
+num_classes: 6
+train batch shape: (32, 224, 224, 3)
+Batch 0 shape: (32, 224, 224, 3)
+Labels 0 shape: (32,)
+Batch 1 shape: (32, 224, 224, 3)
+Labels 1 shape: (32,)
+Batch 2 shape: (32, 224, 224, 3)
+Labels 2 shape: (32,)
+Batch 3 shape: (32, 224, 224, 3)
+Labels 3 shape: (32,)
+Batch 4 shape: (32, 224, 224, 3)
+Labels 4 shape: (32,)
+Batch 5 shape: (32, 224, 224, 3)
+Labels 5 shape: (32,)
+Batch 6 shape: (32, 224, 224, 3)
+Labels 6 shape: (32,)
+Batch 7 shape: (32, 224, 224, 3)
+Labels 7 shape: (32,)
+Batch 8 shape: (32, 224, 224, 3)
+Labels 8 shape: (32,)
+Batch 9 shape: (32, 224, 224, 3)
+Labels 9 shape: (32,)
+Val Batch 0 shape: (32, 224, 224, 3)
+Val Batch 1 shape: (19, 224, 224, 3)
+Test Batch 0 shape: (32, 224, 224, 3)
+Test Batch 1 shape: (24, 224, 224, 3)

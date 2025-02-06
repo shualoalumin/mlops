@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.9",
+  "startedAt": "2025-01-25T05:22:56.202055Z",
+  "program": "c:\\Users\\User\\Documents\\GitHub\\mlops\\vit_cnn_flowers_sweeps.ipynb",
+  "codePath": "vit_cnn_flowers_sweeps.ipynb",
+  "git": {
+    "remote": "https://github.com/shualoalumin/mlops.git",
+    "commit": "a30508130584353eb81962fb3802c429eaf9f355"
+  },
+  "email": "realx1212@gmail.com",
+  "root": "c:\\Users\\User\\Documents\\GitHub\\mlops",
+  "host": "수아Home",
+  "executable": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "codePathLocal": "vit_cnn_flowers_sweeps.ipynb",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "499270602752",
+      "used": "416866385920"
+    }
+  },
+  "memory": {
+    "total": "16508354560"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}

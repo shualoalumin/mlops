@@ -1,0 +1,9 @@
+Epoch 1/5
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Temp\ipykernel_27064\4003239554.py", line 25, in train_sweep
+    model.fit(
+  File "c:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "c:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\input_spec.py", line 245, in assert_input_compatibility
+    raise ValueError(
+ValueError: Input 0 of layer "functional" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, None, 224, 224, 3)
