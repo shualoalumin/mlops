@@ -18,5 +18,6 @@
    4.1. DCGAN  
    4.2. StyleGAN  
 
-
-  
+## 5. Transformer
+   5.1. Transformer Architecture  
+   5.2. Korean Chatbot  
