@@ -1,4 +1,18 @@
+# Checkpoint files
+5_transformer_chatbot/checkpoints/
+*.keras
 *.h5
+*.ckpt
+*.pb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
 flower_classifier_v1.h5
 deeplabv3_xception_tf_dim_ordering_tf_kernels.h5
 Reviews.csv
