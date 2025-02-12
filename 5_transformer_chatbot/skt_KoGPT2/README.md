@@ -5,7 +5,7 @@ This is a Korean chatbot application using KoGPT2.
 
 ## 실행 화면 (Application Screenshot)
 
-<img src="./skt_KoGPT2/chatbot_app.png" width="800" alt="챗봇 애플리케이션 실행 화면">
+![챗봇 애플리케이션 실행 화면](./chatbot_app.png)
 
 ## 주요 기능 (Main Features)
 
