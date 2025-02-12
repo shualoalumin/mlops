@@ -1,3 +1,8 @@
+import os
+import logging
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # TensorFlow 경고 메시지 숨기기
+logging.getLogger('tensorflow').setLevel(logging.ERROR)  # TensorFlow 로그 레벨 설정
+
 from transformers import GPT2LMHeadModel, PreTrainedTokenizerFast
 
 def load_model_and_tokenizer():
@@ -15,7 +20,7 @@ def load_model_and_tokenizer():
     model = GPT2LMHeadModel.from_pretrained(MODEL_NAME)
     return model, tokenizer
 
-def generate_text(model, tokenizer, prompt, max_length=1024):
+def generate_text(model, tokenizer, prompt, max_new_tokens=50):
     input_ids = tokenizer.encode(prompt, return_tensors='pt')
     
     # 입력 길이
@@ -23,8 +28,7 @@ def generate_text(model, tokenizer, prompt, max_length=1024):
     
     output = model.generate(
         input_ids,
-        max_length=max_length,
-        max_new_tokens=50,  # 새로 생성할 최대 토큰 수
+        max_new_tokens=max_new_tokens,  # 새로 생성할 최대 토큰 수
         num_beams=3,
         temperature=0.8,
         top_k=40,
@@ -76,7 +80,7 @@ def chat():
         try:
             # 입력 길이 체크
             input_ids = tokenizer.encode(prompt, return_tensors='pt')
-            if len(input_ids[0]) >= 900:  # max_length(1024)에 여유를 둠
+            if len(input_ids[0]) >= 900:
                 print("\n죄송합니다. 대화가 너무 길어져서 더 이상 진행하기 어렵습니다.")
                 print("더 나은 대화를 위해 새로운 대화를 시작해주세요.")
                 print("대화를 종료합니다.")
