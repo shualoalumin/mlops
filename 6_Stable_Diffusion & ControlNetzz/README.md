@@ -1,4 +1,4 @@
-![](controlNet/rawfile.png) ![](controlNet/image.png) ![](controlNet/dragon_image.png)
+![](controlNet/rawfile.png) ![](controlNet/image.png) 
 ![](controlNet/mangolf.png) ![](controlNet/mangolf_openpose.png)
 ![](controlNet/ygirlgolf.png) ![](controlNet/man_streetdance.png)
 ![](controlNet/ladyfashion.png) ![](controlNet/person_mt.png)
