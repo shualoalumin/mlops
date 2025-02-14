@@ -1,5 +1,7 @@
-![](controlNet/rawfile.png) ![](controlNet/image.png)
-![](controlNet/openpose.png)
+![](controlNet/rawfile.png) ![](controlNet/image.png) ![](controlNet/dragon_image.png)
+![](controlNet/mangolf.png) ![](controlNet/mangolf_openpose.png)
+![](controlNet/ygirlgolf.png) ![](controlNet/man_streetdance.png)
+![](controlNet/ladyfashion.png) ![](controlNet/person_mt.png)
 
 ## @controlNet_colab.ipynb 프로젝트 소개
 
@@ -25,4 +27,5 @@
    - 얼굴, 손, 발 등의 키포인트도 함께 감지 가능
 
 
-실행 과정이나 생성 과정에서 궁금한 점이 있다면, @controlNet_colab.ipynb 노트북 내부의 주석 및 추가 설명을 참고해 주세요. 원활한 실행을 위해 Colab 환경 사용 시 런타임 유형을 GPU로 설정하는 것을 권장합니다.
+실행 과정이나 생성 과정에서 궁금한 점이 있다면, @controlNet_colab.ipynb 노트북 내부의 주석 및 추가 설명을 참고해 주세요.  
+원활한 실행을 위해 Colab 환경 사용 시 런타임 유형을 GPU로 설정하는 것을 권장합니다.
