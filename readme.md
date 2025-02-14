@@ -22,6 +22,6 @@
    5.1. Transformer Architecture  
    5.2. Korean Chatbot  
 
-## 6. ChatGPT & Stable Diffusion
+## 6. Stable Diffusion & ControlNet
    6.1. Stable Diffusion  
    6.2. ControlNet
