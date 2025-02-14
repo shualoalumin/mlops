@@ -1,6 +1,6 @@
 ![](controlNet/rawfile.png) ![](controlNet/image.png) 
 ![](controlNet/ladyfashion.png) ![](controlNet/person_mt.png)
-![](controlNet/mangolf.png =324x512) ![](controlNet/mangolf_openpose.png =324x512)
+<img src="controlNet/mangolf.png" width="324" height="512"> <img src="controlNet/mangolf_openpose.png" width="324" height="512">
 
 
 ## @controlNet_colab.ipynb 프로젝트 소개
