@@ -1,14 +1,14 @@
 import json
 import requests
-import numpy as np
 
-# Create a sample test image (3 channels, 32x32 size)
-test_image = np.random.rand(1, 32, 32, 3).astype('float32')
+# Create a simple test image (all zeros)
+test_image = [[[0.0] * 3] * 32] * 32
+test_data = [test_image]  # Batch size 1
 
 # Prepare the data for the request
 data = json.dumps({
     "signature_name": "serving_default",
-    "instances": test_image.tolist()
+    "instances": test_data
 })
 
 # Send request to TensorFlow Serving
@@ -18,11 +18,12 @@ response = requests.post(url, data=data, headers=headers)
 
 if response.status_code == 200:
     predictions = response.json()['predictions']
-    predicted_class = np.argmax(predictions[0])
     class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer',
                    'dog', 'frog', 'horse', 'ship', 'truck']
     
-    print(f"Predicted class: {class_names[predicted_class]} (class {predicted_class})")
+    # Get the class with highest probability
+    max_prob_index = predictions[0].index(max(predictions[0]))
+    print(f"Predicted class: {class_names[max_prob_index]} (class {max_prob_index})")
     print(f"Prediction probabilities: {predictions[0]}")
 else:
-    print("Error:", response.text)  
+    print("Error:", response.text) 
