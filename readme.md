@@ -25,3 +25,9 @@
 ## 6. Stable Diffusion & ControlNet
    6.1. Stable Diffusion  
    6.2. ControlNet
+
+## 7. MLOps
+   7.1. MLOps
+   7.2. MLOps with Keras Tuner
+   7.3. TensorFlow Serving & TensorFlow Lite with Docker
+
